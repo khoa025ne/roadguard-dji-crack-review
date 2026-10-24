@@ -1,0 +1,783 @@
+{
+  "schema_version": 1,
+  "model": "v2",
+  "source": "V1/V2 comparison on original internal DJI frames",
+  "note": "Predictions are not labels; boxes overlapping redactions need internal review",
+  "predictions_by_frame": {
+    "DJI_0059_f000360_t000012012ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.38459,
+        "box": [
+          1280.43,
+          101.48,
+          1352.75,
+          625.87
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.34013,
+        "box": [
+          535.41,
+          515.39,
+          562.91,
+          557.19
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.32425,
+        "box": [
+          1175.06,
+          10.09,
+          1358.92,
+          640.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.26418,
+        "box": [
+          1206.51,
+          443.36,
+          1440.01,
+          950.85
+        ]
+      }
+    ],
+    "DJI_0059_f000900_t000030030ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.2859,
+        "box": [
+          1362.06,
+          841.24,
+          1378.84,
+          895.3299999999999
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.2841,
+        "box": [
+          515.59,
+          287.39,
+          1116.3400000000001,
+          640.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.2753,
+        "box": [
+          1771.73,
+          376.2,
+          1920,
+          409.2
+        ]
+      }
+    ],
+    "DJI_0059_f001500_t000050050ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.55511,
+        "box": [
+          822.4,
+          721.7,
+          841.49,
+          746.76
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.28182,
+        "box": [
+          1555.47,
+          444.16,
+          1663.69,
+          989.47
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.27682,
+        "box": [
+          540.08,
+          991.74,
+          578.04,
+          1078.3400000000001
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.26096,
+        "box": [
+          1024.76,
+          440.0,
+          1420.58,
+          1074.26
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.25712,
+        "box": [
+          31.24,
+          0.3,
+          90.45,
+          175.55
+        ]
+      }
+    ],
+    "DJI_0059_f002400_t000080080ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.25487,
+        "box": [
+          1658.06,
+          383.65,
+          1673.41,
+          440.46
+        ]
+      }
+    ],
+    "DJI_0059_f003200_t000106773ms.jpg": [],
+    "DJI_0060_f000600_t000020020ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.27707,
+        "box": [
+          672.4300000000001,
+          2.11,
+          794.13,
+          240.68
+        ]
+      }
+    ],
+    "DJI_0060_f002200_t000073407ms.jpg": [],
+    "DJI_0060_f004200_t000140140ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.60529,
+        "box": [
+          1515.91,
+          440.0,
+          1920,
+          1025.49
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.45405,
+        "box": [
+          696.96,
+          205.26,
+          1055.9,
+          260.47
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.397,
+        "box": [
+          1025.7,
+          310.89,
+          1171.12,
+          351.13
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.3947,
+        "box": [
+          1089.53,
+          427.51,
+          1109.02,
+          454.7
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.38421,
+        "box": [
+          697.04,
+          289.19,
+          1150.5700000000002,
+          360.27
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.33724,
+        "box": [
+          379.57,
+          974.62,
+          639.63,
+          1052.62
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.27024,
+        "box": [
+          514.13,
+          961.61,
+          745.91,
+          1079.6100000000001
+        ]
+      }
+    ],
+    "DJI_0060_f006200_t000206873ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.453,
+        "box": [
+          813.69,
+          829.53,
+          1149.98,
+          883.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.41345,
+        "box": [
+          1397.52,
+          108.28,
+          1918.8899999999999,
+          178.51
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.34095,
+        "box": [
+          1460.67,
+          0.14,
+          1917.9,
+          77.04
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.29997,
+        "box": [
+          1391.22,
+          101.64,
+          1663.1599999999999,
+          160.68
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.29322,
+        "box": [
+          1493.88,
+          40.29,
+          1663.52,
+          107.34
+        ]
+      }
+    ],
+    "DJI_0060_f008200_t000273607ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.53532,
+        "box": [
+          18.84,
+          829.3399999999999,
+          635.54,
+          991.0
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.36692,
+        "box": [
+          301.5,
+          361.05,
+          640.0,
+          638.44
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.25,
+        "box": [
+          548.13,
+          722.1700000000001,
+          583.56,
+          791.39
+        ]
+      }
+    ],
+    "DJI_0061_f000900_t000030030ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.3132,
+        "box": [
+          1025.88,
+          440.77,
+          1051.73,
+          517.16
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.28745,
+        "box": [
+          1025.15,
+          692.19,
+          1413.47,
+          743.02
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.27457,
+        "box": [
+          1280.0,
+          496.13,
+          1340.19,
+          538.6800000000001
+        ]
+      }
+    ],
+    "DJI_0061_f003300_t000110110ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.31711,
+        "box": [
+          671.09,
+          326.6,
+          1151.98,
+          390.93
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.28576,
+        "box": [
+          982.48,
+          478.55,
+          1152.0,
+          538.5
+        ]
+      }
+    ],
+    "DJI_0061_f005700_t000190190ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.33555,
+        "box": [
+          831.87,
+          306.16,
+          1118.72,
+          346.28
+        ]
+      }
+    ],
+    "DJI_0061_f008500_t000283617ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.63657,
+        "box": [
+          593.89,
+          440.0,
+          780.45,
+          1078.71
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.50979,
+        "box": [
+          1204.49,
+          450.44,
+          1259.05,
+          638.08
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.4888,
+        "box": [
+          658.28,
+          316.7,
+          831.3299999999999,
+          639.66
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.31361,
+        "box": [
+          1024.0,
+          115.41,
+          1247.88,
+          151.11
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.26577,
+        "box": [
+          1178.77,
+          444.59,
+          1270.8899999999999,
+          1080
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.26148,
+        "box": [
+          579.18,
+          912.21,
+          639.97,
+          1079.55
+        ]
+      }
+    ],
+    "DJI_0061_f011200_t000373707ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.58826,
+        "box": [
+          1026.09,
+          440.0,
+          1336.73,
+          521.98
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.51567,
+        "box": [
+          512.0,
+          478.45,
+          619.52,
+          1044.75
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.50513,
+        "box": [
+          512.92,
+          967.77,
+          1150.74,
+          1079.03
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.38133,
+        "box": [
+          512.0,
+          337.41,
+          1149.81,
+          499.36
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.34679,
+        "box": [
+          21.33,
+          922.24,
+          640.0,
+          1028.5700000000002
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.25183,
+        "box": [
+          1009.76,
+          441.8,
+          1152.0,
+          489.06
+        ]
+      }
+    ],
+    "DJI_0063_f000350_t000011678ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.4188,
+        "box": [
+          632.75,
+          348.42,
+          986.05,
+          423.95
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.38687,
+        "box": [
+          124.93,
+          17.56,
+          161.77,
+          108.79
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.30765,
+        "box": [
+          513.14,
+          770.31,
+          639.04,
+          888.78
+        ]
+      }
+    ],
+    "DJI_0063_f001000_t000033367ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.55232,
+        "box": [
+          1282.71,
+          416.16,
+          1344.47,
+          639.57
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.46375,
+        "box": [
+          512.0,
+          604.16,
+          722.04,
+          1078.4
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.44975,
+        "box": [
+          1280.2,
+          440.03,
+          1368.73,
+          929.55
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.40257,
+        "box": [
+          1174.6399999999999,
+          160.82,
+          1216.23,
+          386.47
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.35734,
+        "box": [
+          317.33,
+          568.97,
+          639.49,
+          1078.87
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.28172,
+        "box": [
+          384.17,
+          462.38,
+          469.71,
+          608.63
+        ]
+      }
+    ],
+    "DJI_0063_f001800_t000060060ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.70685,
+        "box": [
+          1180.68,
+          255.29,
+          1539.01,
+          638.69
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.58194,
+        "box": [
+          1287.27,
+          164.13,
+          1915.0900000000001,
+          432.23
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.54802,
+        "box": [
+          1297.8600000000001,
+          167.33,
+          1663.63,
+          308.92
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.42941,
+        "box": [
+          1094.58,
+          440.0,
+          1458.09,
+          694.72
+        ]
+      }
+    ],
+    "DJI_0063_f002600_t000086753ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.56686,
+        "box": [
+          788.52,
+          442.05,
+          872.0699999999999,
+          1078.1100000000001
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.47704,
+        "box": [
+          808.5899999999999,
+          1.52,
+          941.21,
+          620.01
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.30757,
+        "box": [
+          834.8299999999999,
+          347.22,
+          880.7,
+          640.0
+        ]
+      }
+    ],
+    "DJI_0063_f003400_t000113447ms.jpg": [
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.58277,
+        "box": [
+          764.39,
+          948.77,
+          1152.0,
+          1044.6100000000001
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.53429,
+        "box": [
+          725.16,
+          676.6800000000001,
+          1016.94,
+          735.25
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.46839,
+        "box": [
+          775.7,
+          446.0,
+          955.89,
+          494.31
+        ]
+      },
+      {
+        "class_id": 0,
+        "class_name": "crack",
+        "confidence": 0.36008,
+        "box": [
+          1024.0,
+          949.44,
+          1171.83,
+          991.98
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RoadGuard ChatGPT crack proposals (not ground truth)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "frames"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "roadguard-crack-proposal-v1"
+    },
+    "frames": {
+      "type": "array",
+      "minItems": 0,
+      "maxItems": 20,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "frame_id",
+          "image_sha256",
+          "width",
+          "height",
+          "boxes"
+        ],
+        "properties": {
+          "frame_id": {
+            "type": "string"
+          },
+          "image_sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "width": {
+            "const": 1920
+          },
+          "height": {
+            "const": 1080
+          },
+          "boxes": {
+            "type": "array",
+            "maxItems": 100,
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": [
+                "class",
+                "xyxy_px"
+              ],
+              "properties": {
+                "class": {
+                  "const": "crack"
+                },
+                "xyxy_px": {
+                  "type": "array",
+                  "minItems": 4,
+                  "maxItems": 4,
+                  "items": {
+                    "type": "number"
+                  }
+                }
+              }
+            }
+          },
+          "notes": {
+            "type": "string",
+            "maxLength": 2000
+          }
+        }
+      }
+    }
+  }
+}
